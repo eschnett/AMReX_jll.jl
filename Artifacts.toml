@@ -1,0 +1,120 @@
+[[AMReX]]
+arch = "aarch64"
+git-tree-sha1 = "81bb35aafc57a30a5d412adc982573d87ca90f65"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[AMReX.download]]
+    sha256 = "1eb9358b603cfa0f5a9b7a3a617128651f277d588725c89186774dad95861e32"
+    url = "https://github.com/eschnett/AMReX_jll.jl/releases/download/AMReX-v21.9.0+0/AMReX.v21.9.0.aarch64-linux-gnu-libgfortran4.tar.gz"
+[[AMReX]]
+arch = "aarch64"
+git-tree-sha1 = "120ccb7cd32a907e1761c871b6bdffe38dd0ec55"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[AMReX.download]]
+    sha256 = "7d8de7ec6abf02f862e8a6d62ded67fa0970120cdf52e39153cf092716b9dc45"
+    url = "https://github.com/eschnett/AMReX_jll.jl/releases/download/AMReX-v21.9.0+0/AMReX.v21.9.0.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[AMReX]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "54d1180a1020d14dbfb884ecb316f0b178250546"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[AMReX.download]]
+    sha256 = "3df5d0112fce60f376fb233821996847822101e730c81050f1ce4f0037348c80"
+    url = "https://github.com/eschnett/AMReX_jll.jl/releases/download/AMReX-v21.9.0+0/AMReX.v21.9.0.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+[[AMReX]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "40982b3db4f71c64f2bd974c51a5fae78a71e5bc"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[AMReX.download]]
+    sha256 = "f6a9b52b0cc3bb041896a15f7ca27c7bbda622a5bdcdea7f04feba7588651d6a"
+    url = "https://github.com/eschnett/AMReX_jll.jl/releases/download/AMReX-v21.9.0+0/AMReX.v21.9.0.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+[[AMReX]]
+arch = "i686"
+git-tree-sha1 = "f5d5facc27ebe44819801e3958a30a1e5885609d"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[AMReX.download]]
+    sha256 = "2e5a047474945e71fffd3a628caeb24364a433542ee63b8a91f68c67a985291c"
+    url = "https://github.com/eschnett/AMReX_jll.jl/releases/download/AMReX-v21.9.0+0/AMReX.v21.9.0.i686-linux-gnu-libgfortran4.tar.gz"
+[[AMReX]]
+arch = "i686"
+git-tree-sha1 = "481a74739deeb67b12f600bbfb84b45eab519aba"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[AMReX.download]]
+    sha256 = "21122f61283966d57027a2810cc71035377151b7cbba211b3edc5eb41857d099"
+    url = "https://github.com/eschnett/AMReX_jll.jl/releases/download/AMReX-v21.9.0+0/AMReX.v21.9.0.i686-linux-gnu-libgfortran5.tar.gz"
+[[AMReX]]
+arch = "powerpc64le"
+git-tree-sha1 = "cfbd7c7e2803c783817f6ca1fc8cc9e684282ecf"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[AMReX.download]]
+    sha256 = "2e7d454cb6ca00b6699b688d6fe3e4c18e78665b82659890b7eda8a245b28bd1"
+    url = "https://github.com/eschnett/AMReX_jll.jl/releases/download/AMReX-v21.9.0+0/AMReX.v21.9.0.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+[[AMReX]]
+arch = "powerpc64le"
+git-tree-sha1 = "9f258672b1c9f3d266f404b0bf9599c44990c407"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[AMReX.download]]
+    sha256 = "31ca3c58198587c519ad1e237b4255cf75d2c9f455be5abfe12f9ad719ea3d6d"
+    url = "https://github.com/eschnett/AMReX_jll.jl/releases/download/AMReX-v21.9.0+0/AMReX.v21.9.0.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[AMReX]]
+arch = "x86_64"
+git-tree-sha1 = "cb0f3c2f861010dc17a3fb168a17d755c44bd4a8"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[AMReX.download]]
+    sha256 = "540e277498dd95dba793e988de0950bd4c01651b6daf3ef2b0d784c75ff11f2d"
+    url = "https://github.com/eschnett/AMReX_jll.jl/releases/download/AMReX-v21.9.0+0/AMReX.v21.9.0.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[AMReX]]
+arch = "x86_64"
+git-tree-sha1 = "0772264e13b26d5c4ad85dc65af1758fd862d8d2"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[AMReX.download]]
+    sha256 = "78fd664b5e1042c4c63813dcf7b51eb596a48b2a3a666e214e6fb01ecb97e84b"
+    url = "https://github.com/eschnett/AMReX_jll.jl/releases/download/AMReX-v21.9.0+0/AMReX.v21.9.0.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[AMReX]]
+arch = "x86_64"
+git-tree-sha1 = "a5a59090456b3b07246ca0b7bfd2b5a480fbbb62"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[AMReX.download]]
+    sha256 = "ff91198af96bf5082aaf0db2bba1be34d1cd51e867b47378d830f07e0c7bde99"
+    url = "https://github.com/eschnett/AMReX_jll.jl/releases/download/AMReX-v21.9.0+0/AMReX.v21.9.0.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[AMReX]]
+arch = "x86_64"
+git-tree-sha1 = "ca03d2e87743565701cafbbfd6954ac0c98c4f9b"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[AMReX.download]]
+    sha256 = "d6028ab5a469c8365445e935dfbc9aeb0d5a08f3032e86f763165f27efeb4a62"
+    url = "https://github.com/eschnett/AMReX_jll.jl/releases/download/AMReX-v21.9.0+0/AMReX.v21.9.0.x86_64-linux-gnu-libgfortran5.tar.gz"
